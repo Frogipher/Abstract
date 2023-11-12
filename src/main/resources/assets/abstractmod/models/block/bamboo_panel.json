@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "abstractmod:block/bamboo_top",
+    "side": "abstractmod:block/bamboo_panel",
+    "bottom": "abstractmod:block/bamboo_top"
+  }
+}

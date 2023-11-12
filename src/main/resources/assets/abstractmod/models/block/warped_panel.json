@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "abstractmod:block/warped_top",
+    "side": "abstractmod:block/warped_panel",
+    "bottom": "abstractmod:block/warped_top"
+  }
+}

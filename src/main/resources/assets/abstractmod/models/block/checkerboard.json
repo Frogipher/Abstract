@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "abstractmod:block/checkerboard",
+    "east": "abstractmod:block/checkerboard",
+    "north": "abstractmod:block/checkerboard_side",
+    "particle": "abstractmod:block/checkerboard",
+    "south": "abstractmod:block/checkerboard_side",
+    "up": "abstractmod:block/checkerboard",
+    "west": "abstractmod:block/checkerboard"
+  }
+}

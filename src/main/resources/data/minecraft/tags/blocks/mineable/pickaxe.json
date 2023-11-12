@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "abstractmod:terracotta_shingles",
+    "abstractmod:red_shingles",
+    "abstractmod:orange_shingles",
+    "abstractmod:yellow_shingles",
+    "abstractmod:lime_shingles",
+    "abstractmod:green_shingles",
+    "abstractmod:cyan_shingles",
+    "abstractmod:light_blue_shingles",
+    "abstractmod:blue_shingles",
+    "abstractmod:purple_shingles",
+    "abstractmod:magenta_shingles",
+    "abstractmod:pink_shingles",
+    "abstractmod:white_shingles",
+    "abstractmod:light_gray_shingles",
+    "abstractmod:gray_shingles",
+    "abstractmod:brown_shingles",
+    "abstractmod:black_shingles",
+    "abstractmod:checkerboard"
+  ]
+}

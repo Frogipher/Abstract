@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "abstractmod:block/mangrove_top",
+    "side": "abstractmod:block/mangrove_trim",
+    "bottom": "abstractmod:block/mangrove_top"
+  }
+}

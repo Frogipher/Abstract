@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "abstractmod:block/jungle_top",
+    "side": "abstractmod:block/jungle_panel",
+    "bottom": "abstractmod:block/jungle_top"
+  }
+}
